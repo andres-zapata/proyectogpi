@@ -12,7 +12,7 @@ function Home() {
   }
   const redirectGrupo2 = () =>
   {
-    {/*history.push('/Grupo2')*/}
+    history.push('/Grupo2')
   }
   const redirectGrupo3 = () =>
   {
